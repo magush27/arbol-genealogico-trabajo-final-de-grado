@@ -1,2 +1,2 @@
-# arbol-trabajo-final-de-grado
-Arbol genealógico del Trabaj Final de Grado de Artes Electrónicas
+# Árbol Genealógico
+Arbol genealógico del Trabajo Final de Grado de Artes Electrónicas.
