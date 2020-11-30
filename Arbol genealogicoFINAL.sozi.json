@@ -1,0 +1,1317 @@
+{
+  "aspectWidth": 16,
+  "aspectHeight": 9,
+  "enableKeyboardZoom": true,
+  "enableKeyboardRotation": true,
+  "enableKeyboardNavigation": true,
+  "enableMouseTranslation": true,
+  "enableMouseZoom": true,
+  "enableMouseRotation": true,
+  "enableMouseNavigation": true,
+  "updateURLOnFrameChange": true,
+  "frames": [
+    {
+      "frameId": "frame9630",
+      "title": "Vista general",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 4232.939062876539,
+          "cy": 2483.9049658259223,
+          "width": 9404.96158062452,
+          "height": 5295.069832993887,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 10.035782174446846,
+          "clipWidthFactor": 0.9999999999999951,
+          "clipHeightFactor": 0.9999999999999969
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame1273",
+      "title": "Trabajo final de grado",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 2690.6261964102746,
+          "cy": 125.71313411025157,
+          "width": 785.0545428103987,
+          "height": 589.3227868793508,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame3312",
+      "title": "Análisi aplicaciones para dispositivos móviles",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 259.0137981270407,
+          "cy": 523.758851948992,
+          "width": 1335.9341847277058,
+          "height": 752.1418072552327,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 7.8738753520297005,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1.0345528455284554,
+          "clipHeightFactor": 1
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame5015",
+      "title": "Análisi aplicaciones para dispositivos móviles vista general",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 1141.0389093166975,
+          "cy": 1399.0650419670962,
+          "width": 3544.631106562016,
+          "height": 1995.6561311334929,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 71.41198200033365,
+          "clipYOffset": 14.409069538869984,
+          "clipWidthFactor": 0.8323170731707317,
+          "clipHeightFactor": 1
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame8015",
+      "title": "Específicas TEA y/o TDAH",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 467.87356252149834,
+          "cy": 1227.3701630575126,
+          "width": 1546.5108105954134,
+          "height": 870.6981596238405,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": -6.26040931668899,
+          "clipYOffset": 3.143314655681735,
+          "clipWidthFactor": 1.035569105691057,
+          "clipHeightFactor": 1
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame8296",
+      "title": "Pictorario",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 1219.8831814138566,
+          "cy": 1216.5337842037884,
+          "width": 1973.7832337698587,
+          "height": 1111.2560076305913,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 2.6745030267884267,
+          "clipYOffset": -131.46555447415477,
+          "clipWidthFactor": 1.125,
+          "clipHeightFactor": 0.8086642599277979
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame6008",
+      "title": "Tiimo",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 1613.3982998340575,
+          "cy": 1805.9207024747238,
+          "width": 2176.0960152312705,
+          "height": 1225.1597484127276,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 6.880159036413231,
+          "clipYOffset": 106.18051152910306,
+          "clipWidthFactor": 1.1250000000000002,
+          "clipHeightFactor": 0.5415162454873647
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame3415",
+      "title": "No específicas",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 389.1494043944525,
+          "cy": 2318.175249360541,
+          "width": 1546.5108105954166,
+          "height": 870.6981596238423,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 6.880159036413231,
+          "clipYOffset": -1.0653563029675892,
+          "clipWidthFactor": 1.125,
+          "clipHeightFactor": 1.0379061371841154
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame9912",
+      "title": "Sectograph",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 1425.91450761755,
+          "cy": 2635.951208242702,
+          "width": 1790.2795771155197,
+          "height": 1007.9419570345508,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 34.498287997155046,
+          "clipYOffset": 18.665591796936127,
+          "clipWidthFactor": 1.0020325203252032,
+          "clipHeightFactor": 0.9259927797833936
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame9340",
+      "title": "Trello",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 1485.4505845767883,
+          "cy": 3701.6131479342835,
+          "width": 2072.4723954583537,
+          "height": 1166.818808012122,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": -18.827031881711964,
+          "clipYOffset": -3.599792703694824,
+          "clipWidthFactor": 1.0630081300813008,
+          "clipHeightFactor": 1.0108303249097472
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame1873",
+      "title": "Vista general",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 1704.168365834688,
+          "cy": 717.5760775297551,
+          "width": 3721.8626618901517,
+          "height": 2095.4389376901872,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": -18.827031881711964,
+          "clipYOffset": -3.599792703694824,
+          "clipWidthFactor": 1.0630081300812935,
+          "clipHeightFactor": 1.0108303249097375
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame7137",
+      "title": "Experiencia personal",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 2001.767093880831,
+          "cy": 482.3666362027116,
+          "width": 861.1550869556447,
+          "height": 484.83731521689754,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": -18.827031881711964,
+          "clipYOffset": -3.599792703694824,
+          "clipWidthFactor": 1.0630081300812912,
+          "clipHeightFactor": 1.0108303249097348
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame5201",
+      "title": "Vista general",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 2491.2350158302224,
+          "cy": 426.15538444252434,
+          "width": 2176.096015231297,
+          "height": 1225.1597484127424,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": -18.827031881711964,
+          "clipYOffset": -3.599792703694824,
+          "clipWidthFactor": 1.0630081300812897,
+          "clipHeightFactor": 1.0108303249097326
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame5615",
+      "title": "Arte",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 2661.501579583854,
+          "cy": 532.0718849631276,
+          "width": 743.8981422789312,
+          "height": 418.82070205541453,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": -18.827031881711964,
+          "clipYOffset": -3.599792703694824,
+          "clipWidthFactor": 1.063008130081288,
+          "clipHeightFactor": 1.0108303249097308
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame3376",
+      "title": "Vista general",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 3193.4449652845087,
+          "cy": 439.76115149617516,
+          "width": 2284.9008159928726,
+          "height": 1286.4177358333857,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": -18.827031881711964,
+          "clipYOffset": -3.599792703694824,
+          "clipWidthFactor": 1.0630081300812848,
+          "clipHeightFactor": 1.010830324909728
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame8969",
+      "title": "Bibliografía e investigaciones",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 3283.995961012341,
+          "cy": 535.5234038764056,
+          "width": 861.1550869556519,
+          "height": 484.8373152169016,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 17.86628811111311,
+          "clipYOffset": 4.328904600150907,
+          "clipWidthFactor": 0.9796747967479675,
+          "clipHeightFactor": 1.0108303249097472
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame4232",
+      "title": "Bitácora de trabajo",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 3253.9732945727537,
+          "cy": 916.0055528915699,
+          "width": 820.1477018625271,
+          "height": 461.7498240160976,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": -6.082990395722283,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1.0121951219512184,
+          "clipHeightFactor": 1.0108303249097463
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame6800",
+      "title": "Lecturas y audiovisual",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 3787.815370209579,
+          "cy": 2179.7520713877702,
+          "width": 4103.353584733957,
+          "height": 2310.221428803468,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 208.89800067736508,
+          "clipYOffset": -4.215732534312898,
+          "clipWidthFactor": 0.5589430894308943,
+          "clipHeightFactor": 0.9891696750902527
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame5754",
+      "title": "Discapacidad y capacitismo",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 3878.1197805295974,
+          "cy": 1711.58252946847,
+          "width": 1546.5108105954562,
+          "height": 870.6981596238646,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 17.998648714102018,
+          "clipYOffset": 3.8374582002819118,
+          "clipWidthFactor": 1.0416666666666667,
+          "clipHeightFactor": 1.010830324909747
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame6199",
+      "title": "Tiempo, espacio, autobiografía y estética",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 3481.926483003298,
+          "cy": 2635.457494543916,
+          "width": 1154.0301779313208,
+          "height": 649.7283725345038,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": -37.38758675803415,
+          "clipYOffset": 3.4806877100062708,
+          "clipWidthFactor": 0.9410569105691057,
+          "clipHeightFactor": 1.0108303249097472
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame2721",
+      "title": "Género y comunidad LGBTIQ+",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 4320.989345048614,
+          "cy": 2590.4196178366615,
+          "width": 781.0930493928879,
+          "height": 439.76173715819095,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 3.4806877100062708,
+          "clipWidthFactor": 1.0020325203252025,
+          "clipHeightFactor": 1.0108303249097463
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame1956",
+      "title": "Vista general",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 4064.377884670498,
+          "cy": 760.7602525880492,
+          "width": 3375.8391491067828,
+          "height": 1900.6248867938596,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 3.4806877100062708,
+          "clipWidthFactor": 1.0020325203252007,
+          "clipHeightFactor": 1.0108303249097437
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame6844",
+      "title": "Comunidad",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 5702.205185488147,
+          "cy": 632.7299640742353,
+          "width": 1705.0281686814983,
+          "height": 959.9447209853151,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 3.4806877100062708,
+          "clipWidthFactor": 1.0020325203251996,
+          "clipHeightFactor": 1.0108303249097417
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame5180",
+      "title": "Orgas y grupos presenciales",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 5161.308005297847,
+          "cy": 744.4830040130115,
+          "width": 904.2128413034461,
+          "height": 509.0791809777532,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 3.4806877100062708,
+          "clipWidthFactor": 1.0020325203251985,
+          "clipHeightFactor": 1.0108303249097408
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame2781",
+      "title": "Comunidad virtual",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 6237.975833380885,
+          "cy": 1075.2184543632238,
+          "width": 2284.9008159929112,
+          "height": 1286.4177358334073,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 139.32322048737265,
+          "clipYOffset": -5.836741088173354,
+          "clipWidthFactor": 0.5833333333333333,
+          "clipHeightFactor": 0.9945848375451263
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame8315",
+      "title": "Generadorxs de contenido",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 7814.179090865689,
+          "cy": 675.8101185211672,
+          "width": 1879.793555971359,
+          "height": 1058.339054886314,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 2.218350306789234,
+          "clipYOffset": 20.17031293118583,
+          "clipWidthFactor": 1.0467479674796745,
+          "clipHeightFactor": 1.0361010830324904
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame3938",
+      "title": "Vista general",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 4526.996786542199,
+          "cy": 990.8541319056628,
+          "width": 4308.521263970706,
+          "height": 2425.73250024367,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 2.218350306789234,
+          "clipYOffset": 20.17031293118583,
+          "clipWidthFactor": 1.046747967479673,
+          "clipHeightFactor": 1.0361010830324882
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame8309",
+      "title": "VITO",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 6506.996068128236,
+          "cy": 2099.974255083044,
+          "width": 1472.8674386623557,
+          "height": 829.2363424989279,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 2.218350306789234,
+          "clipYOffset": 20.17031293118583,
+          "clipWidthFactor": 1.0467479674796718,
+          "clipHeightFactor": 1.0361010830324864
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame4797",
+      "title": "Concepto",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 6267.073506715487,
+          "cy": 2130.533808079875,
+          "width": 861.1550869556693,
+          "height": 484.8373152169114,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 2.218350306789234,
+          "clipYOffset": 20.17031293118583,
+          "clipWidthFactor": 1.0467479674796698,
+          "clipHeightFactor": 1.0361010830324844
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame4979",
+      "title": "Características",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 7002.0848097278895,
+          "cy": 2280.8457122522605,
+          "width": 663.446426099981,
+          "height": 373.5257317676722,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 2.352877061801756,
+          "clipYOffset": 5.704137049843135,
+          "clipWidthFactor": 1.0467479674796623,
+          "clipHeightFactor": 1.0794223826714653
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame3181",
+      "title": "Características",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 6888.57650694466,
+          "cy": 2604.372146651942,
+          "width": 1191.4544612884258,
+          "height": 670.7985483270203,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 2.352877061801756,
+          "clipYOffset": 5.704137049843135,
+          "clipWidthFactor": 1.0467479674796611,
+          "clipHeightFactor": 1.0794223826714637
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame3385",
+      "title": "Objetivos",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 7591.040758461478,
+          "cy": 2150.194515286503,
+          "width": 631.8537391428413,
+          "height": 355.7387921596891,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 2.352877061801756,
+          "clipYOffset": 5.704137049843135,
+          "clipWidthFactor": 1.046747967479659,
+          "clipHeightFactor": 1.0794223826714608
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame4911",
+      "title": "Vista general VITO",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 6590.2731056023895,
+          "cy": 2604.9494392055235,
+          "width": 2600.79566676081,
+          "height": 1464.2691050665537,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 2.352877061801756,
+          "clipYOffset": 5.704137049843135,
+          "clipWidthFactor": 1.0467479674796554,
+          "clipHeightFactor": 1.0794223826714564
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame7488",
+      "title": "Timeline técnico",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 5798.243213585148,
+          "cy": 2855.7709867647345,
+          "width": 1251.0271843528558,
+          "height": 704.3384757433762,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": -43.60879073996883,
+          "clipYOffset": 17.667353070486026,
+          "clipWidthFactor": 0.9329268292682927,
+          "clipHeightFactor": 1.07942238267148
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame2880",
+      "title": "Vista general",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 4302.647736173236,
+          "cy": 2310.321578809052,
+          "width": 9247.578119225505,
+          "height": 5206.461664685905,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 18.210157764520115,
+          "clipYOffset": 53.856882829934484,
+          "clipWidthFactor": 1.0081300813008103,
+          "clipHeightFactor": 1.0794223826714768
+        }
+      },
+      "cameraOffsets": {}
+    }
+  ],
+  "elementsToHide": [],
+  "selectedFrames": [
+    "frame3376"
+  ],
+  "selectedLayers": [
+    "__sozi_auto__"
+  ],
+  "editableLayers": []
+}
